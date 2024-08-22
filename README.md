@@ -17,8 +17,8 @@ I'm a software developer who loves working with JavaScript, Python, and DevOps. 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amirali-Salari&theme=react-dark)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/amiralisalar)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Amirali_Salari)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](www.linkedin.com/in/amiralisalar)
+[![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)](https://t.me/Amirali_Salari)
 
 
 <!--
